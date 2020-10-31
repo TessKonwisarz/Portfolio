@@ -1,4 +1,4 @@
-# Portfolio
+# Tess Konwisarz's Portfolio
 My professional coding portfolio
 
 Hello and welcome to my portfolio!
