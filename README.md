@@ -8,7 +8,7 @@ Hello and welcome to my portfolio!
 Dataset imported from [Kaggle](https://www.kaggle.com)
 
 import pandas as pd  
-df = pd.read_csv(https://raw.githubusercontent.com/TessKonwisarz/Portfolio/main/diet_data.csv)   
+df = pd.read_csv('https://raw.githubusercontent.com/TessKonwisarz/Portfolio/main/diet_data.csv')   
 df.head()
 
 Questions? Email me at:
