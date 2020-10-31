@@ -3,7 +3,7 @@ My professional coding portfolio
 
 Hello and welcome to my portfolio!
 
-An example of code I wrote to format a [course schedule using pandas dataframe](Course_Schedule_ pd.DataFrame.md). 
+An example of code I wrote to format a [course schedule using pandas dataframe](Course_Schedule_pd.DataFrame.md). 
 
 ## Cleaning and manipulating data
 Dataset imported from [Kaggle](https://www.kaggle.com)
