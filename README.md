@@ -4,10 +4,11 @@ My professional coding portfolio
 
 Hello and welcome to my portfolio!
 
-Cleaning and manipulating dataset imported from [Kaggle](https://www.kaggle.com)
+## Cleaning and manipulating data
+Dataset imported from [Kaggle](https://www.kaggle.com)
 
-import pandas as pd;
-df = pd.read_csv(diet_data);
+import pandas as pd  
+df = pd.read_csv(diet_data)   
 print(df)
 
 Questions? Email me at:
