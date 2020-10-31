@@ -3,6 +3,7 @@ My professional coding portfolio
 
 Hello and welcome to my portfolio!
 
+## Coding Pandas DataFrame
 An example of code I wrote to format a [course schedule using pandas dataframe](CS_pd_df.md). 
 
 ## Cleaning and manipulating data
