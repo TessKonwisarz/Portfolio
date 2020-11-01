@@ -5,7 +5,7 @@ Hello and welcome to my portfolio!
 ## Coding Pandas DataFrame
 An example of code I wrote to format a [course schedule using pandas dataframe](CS_pd_df.md). 
 
-## Data Interpretation for Research
+## Examples of Data Manipulation for Interpretation
 
 ### Cleaning Dataset
 Dataset imported from [Kaggle](https://www.kaggle.com)
