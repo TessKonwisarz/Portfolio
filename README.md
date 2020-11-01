@@ -19,7 +19,7 @@ Dataset imported from [Kaggle](https://www.kaggle.com)
 
 The dataset 'StudentsPerformance.csv' contains a sample of data recordings for student grade performance in different academic tasks, along with records of additional influencial variables.   
 Here is an example of some [dataset visualisations](student_performance_exploration.md) to facilitate data analysis and determine if there is any additional variable influences on student performance.   
-To view the student performance [bar graph](graph.png) that pairs with the exploratory analysis coding in the preceding link.
+To view the student performance [bar graph](Graph.png) that pairs with the exploratory analysis coding in the preceding link.
 
 Questions? Email me at:
 [ts518847@dal.ca](mailto:ts518847@dal.ca)
