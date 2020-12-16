@@ -2,12 +2,12 @@
 
 Hello and welcome to my portfolio!
 
-## Coding Pandas DataFrame
+## Creating Pandas DataFrame
 An example of code I wrote to format a [course schedule using pandas dataframe](CS_pd_df.md). 
 
 ## Examples of Data Manipulation for Interpretation
 
-### Cleaning Dataset
+### How to clean a dataset
 Dataset imported from [Kaggle](https://www.kaggle.com)
 
 The dataset 'diet_data.csv' contains daily records of caloric intake and weight measurements over 140 days to assess the effects of a caloric deficit without diet restrictions on the participant's weight.   
