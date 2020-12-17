@@ -10,9 +10,12 @@ This portfolio is a preview of my ever-growing Python coding skills that I have 
 - Statistical Analysis
 
 ## Creating Pandas DataFrame
+
 An example of code I wrote to format a [course schedule using pandas dataframe](CS_pd_df.md). 
 
 ## Examples of Data Manipulation for Interpretation
+
+
 
 ### How to clean a dataset
 Dataset imported from [Kaggle](https://www.kaggle.com)
