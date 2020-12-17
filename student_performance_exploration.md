@@ -254,7 +254,9 @@ plt.ylim(0,100)
 
 
 
-    
+<p align='center'>
+    <img src='student_performance_exploration_files/student_performance_exploration_4_1.png' width='200'>
+</p>    
 ![png](student_performance_exploration_files/student_performance_exploration_4_1.png)
     
 
