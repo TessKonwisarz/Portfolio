@@ -19,8 +19,7 @@ An example of code I wrote to format a [course schedule using pandas dataframe](
 
 ### Cleaning Datasets
 
-Dataset imported from [Kaggle](https://www.kaggle.com)
-The dataset 'diet_data.csv' contains daily records of caloric intake and weight measurements over 140 days to assess the effects of a caloric deficit without diet restrictions on the participant's weight.   
+The dataset 'diet_data.csv' contains daily records of caloric intake and weight measurements over 140 days to assess the effects of a caloric deficit without diet restrictions on the participant's weight (Dataset imported from [Kaggle](https://www.kaggle.com)).   
 To analyse the effects on the indivdual, the dataset has been cleaned and reorganized to simplify the dataseta to give greater focus to the data variables that answer research questions.    
 Here is an example of [how to clean a dataset](Cleaning_diet_data.md).  
 
