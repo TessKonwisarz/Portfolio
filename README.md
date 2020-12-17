@@ -27,11 +27,11 @@ Here is an example of [how to clean a dataset](Cleaning_diet_data.md).
 
 After the data has been cleaned, it is useful to display the data in a table in a way that clearly displays the data collection results. A table will give a better idea as how to best plot the data to show the trends in order to answer a research question.
 
-Here are some examples of how [groupby and pivot_table functions](groupby_pivot_table.md) can be used similarily to manipulate a dataframe and create a concise table representation of the data.
+Here are some examples of how [groupby and pivot_table functions](groupby_pivot_table.md) can be used similarily to manipulate a dataframe and create a concise table representation of the data (Datasets imported from [Kaggle](https://www.kaggle.com)).
 
 ### Exploratory Analysis
-Dataset imported from [Kaggle](https://www.kaggle.com)
-The dataset 'StudentsPerformance.csv' contains a sample of data recordings for student grade performance in different academic tasks, along with records of additional influencial variables.   
+
+The dataset 'StudentsPerformance.csv' contains a sample of data recordings for student grade performance in different academic tasks, along with records of additional influencial variables (Dataset imported from [Kaggle](https://www.kaggle.com)).   
 Here is an example of some [dataset visualisations](student_performance_exploration.md) to facilitate data analysis and determine if there is any additional variable influences on student performance.   
 To view the student performance [bar graph](Graph.png) that pairs with the exploratory analysis coding in the preceding link.
 
