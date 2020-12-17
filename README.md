@@ -25,7 +25,7 @@ Here is an example of [how to clean a dataset](Cleaning_diet_data.md).
 
 ### Manipulating DataFrames 
 
-After the data has been cleaned, it is useful to display the data in a table in a way that clearly displays the data collection results. A table will give a better idea as how to best plot the data to show the trends in order to answer a research question. <p>&nbsp;</p>
+After the data has been cleaned, it is useful to display the data in a table in a way that clearly displays the data collection results. A table will give a better idea as how to best plot the data to show the trends in order to answer a research question.
 Here are some examples of how [groupby and pivot_table functions](groupby_pivot_table.md) can be used similarily to manipulate a dataframe and create a concise table representation of the data.
 
 ### Exploratory Analysis
