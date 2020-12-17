@@ -1,7 +1,6 @@
 # Tess Konwisarz
-<img src='IMG_2555.jpeg' width='200' align='right'>
 Hello and welcome to my portfolio! 
-
+<img src='IMG_2555.jpeg' width='200' align='right'>
 This portfolio is a preview of my ever-growing Python coding skills that I have acquired, first introduced in a Neural Data Science course at Dalhousie University. I am passionate about the brain and behaviour, pursuing studies in Neuroscience and psychology.  
 Learning to code has provided a more comprehensive perspective on the world of research, giving me skills to analyze data and interpret results to gain further insight into worldly occurrences.
 
