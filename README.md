@@ -32,7 +32,7 @@ Here are some examples of how [groupby and pivot_table functions](groupby_pivot_
 
 The exploratory analysis helps to visualize the data so to notice any trends or effects within the data comparisons and thus, facilitate data analysis.
 
-Displaying [bar plots](bar_plot.md) to compare the effects of gender on academic performance using student performance dataset (Dataset imported from [Kaggle](https://www.kaggle.com)).
+Displaying [bar plots](bar_plot.htm) to compare the effects of gender on academic performance using student performance dataset (Dataset imported from [Kaggle](https://www.kaggle.com)).
 
 ## MRI Imaging Visualization
 
