@@ -30,9 +30,9 @@ Here are some examples of how [groupby and pivot_table functions](groupby_pivot_
 
 ### Exploratory Analysis
 
-The dataset 'StudentsPerformance.csv' contains a sample of data recordings for student grade performance in different academic tasks, along with records of additional influencial variables (Dataset imported from [Kaggle](https://www.kaggle.com)).   
-Here is an example of some [dataset visualisations](student_performance_exploration.md) to facilitate data analysis and determine if there is any additional variable influences on student performance.   
-To view the student performance [bar graph](Graph.png) that pairs with the exploratory analysis coding in the preceding link.
+The exploratory analysis helps to visualize the data so to notice any trends or effects within the data comparisons and thus, facilitate data analysis.
+
+Displaying [bar plots](bar_plot.md) to compare the effects of gender on academic performance using student performance dataset (Dataset imported from [Kaggle](https://www.kaggle.com)).
 
 ## MRI Imaging Visualization
 
