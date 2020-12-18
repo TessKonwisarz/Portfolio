@@ -36,7 +36,7 @@ To view the student performance [bar graph](Graph.png) that pairs with the explo
 
 ## MRI Imaging Visualization
 
-Reading images from personal axial plane lumbar spine [MRI imaging dataset](MRI_scan_demo.md), viewing all spine cross-sections in subplots and reslicing the data for coronal imaging plane.
+Reading images from personal axial plane lumbar spine [MRI imaging dataset](MRI.htm), viewing all spine cross-sections in subplots and reslicing the data for coronal imaging plane.
 
 Questions? Email me at:
 [ts518847@dal.ca](mailto:ts518847@dal.ca)
