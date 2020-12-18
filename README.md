@@ -12,7 +12,7 @@ Learning to code has provided a more comprehensive perspective on the world of r
 
 ## Creating Pandas DataFrame
 
-An example of code I wrote to format a [course schedule using pandas dataframe](CS_pd_df.md). 
+Formatting a course schedule with Python, inputing data into a [dictionary then converting it to a pandas dataframe](cs.md). 
 
 ## Examples of Data Manipulation for Interpretation
 
