@@ -12,7 +12,7 @@ Learning to code has provided a more comprehensive perspective on the world of r
 
 ## Creating Pandas DataFrame
 
-Formatting a course schedule with Python, inputing data into a [dictionary then converting it to a pandas dataframe](cs.md). 
+Formatting a course schedule with Python, inputing data into a [dictionary then converting it to a pandas dataframe](cs2.md). 
 
 ## Examples of Data Manipulation for Interpretation
 
