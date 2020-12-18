@@ -18,9 +18,9 @@ Formatting a course schedule with Python, inputing data into a [dictionary then 
 
 ### Cleaning Datasets
 
-The dataset 'diet_data.csv' contains daily records of caloric intake and weight measurements over 140 days to assess the effects of a caloric deficit without diet restrictions on the participant's weight (Dataset imported from [Kaggle](https://www.kaggle.com)).   
-To analyse the effects on the indivdual, the dataset has been cleaned and reorganized to simplify the dataseta to give greater focus to the data variables that would potentially answer research questions.    
-Here is an example of [how to clean a dataset](Cleaning_diet_data.md).  
+Data can be messy when it is first collected, participants may not complete the necessary tasks, may drop out of the study, data may be disorganized, etc. Thus, cleaning the collected data is essential to allow proper manipulation and interpretation.
+
+Analysing the effects of diet on an indivdual by [cleaning the dataset](diet.md), comparing useful variables and reorganizing the data into a DataFrame for easier analysis.  
 
 ### Manipulating DataFrames 
 
