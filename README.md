@@ -34,7 +34,7 @@ The dataset 'StudentsPerformance.csv' contains a sample of data recordings for s
 Here is an example of some [dataset visualisations](student_performance_exploration.md) to facilitate data analysis and determine if there is any additional variable influences on student performance.   
 To view the student performance [bar graph](Graph.png) that pairs with the exploratory analysis coding in the preceding link.
 
-### MRI Imaging Visualization
+## MRI Imaging Visualization
 
 Reading images from personal axial plane lumbar spine [MRI imaging dataset](MRI_scan_demo.md), viewing all spine cross-sections in subplots and reslicing the data for coronal imaging plane.
 
