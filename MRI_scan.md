@@ -169,7 +169,7 @@ plt.show()
 
 
     
-![png](MRI_scan_demo_files/MRI_scan_demo_15_0.png)
+[png](MRI_scan_demo_files/MRI_scan_demo_15_0.png)
     
 
 
