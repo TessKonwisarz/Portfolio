@@ -34,6 +34,8 @@ The exploratory analysis helps to visualize the data so to notice any trends or 
 
 Displaying [bar plots](bar_plot.htm) to compare the effects of gender on academic performance using student performance dataset (Dataset imported from [Kaggle](https://www.kaggle.com)).
 
+Displaying the same data for academic performance, instead using [boxplots](boxplot_performance.md)
+
 ## MRI Imaging Visualization
 
 Reading images from personal axial plane lumbar spine [MRI imaging dataset](MRI.htm), viewing all spine cross-sections in subplots and reslicing the data for coronal imaging plane.
