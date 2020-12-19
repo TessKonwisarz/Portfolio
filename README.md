@@ -40,5 +40,9 @@ Displaying the same data for academic performance, instead using [boxplots](boxp
 
 Reading images from personal axial plane lumbar spine [MRI imaging dataset](MRI.htm), viewing all spine cross-sections in subplots and reslicing the data for coronal imaging plane.
 
+## EEG Data Cleaning and Visualization
+
+How I cleaned and plotted some [EEG data](EEG.htm)
+
 Questions? Email me at:
 [ts518847@dal.ca](mailto:ts518847@dal.ca)
