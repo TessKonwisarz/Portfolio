@@ -46,3 +46,5 @@ How I cleaned and plotted some [EEG data](EEG.htm)
 
 Questions? Email me at:
 [ts518847@dal.ca](mailto:ts518847@dal.ca)
+
+Last updated: December 18, 2020
