@@ -42,7 +42,7 @@ Reading images from personal axial plane lumbar spine [MRI imaging dataset](MRI.
 
 ## EEG Data Cleaning and Visualization
 
-How I cleaned and plotted some [EEG data](EEG.htm)
+How I cleaned and plotted some [EEG data](EEG.html)
 
 Questions? Email me at:
 [ts518847@dal.ca](mailto:ts518847@dal.ca)
